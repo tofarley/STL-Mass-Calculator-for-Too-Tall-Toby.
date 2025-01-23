@@ -33,7 +33,7 @@ class materialsFor3DPrinting:
             17: {'name': 'Titanium', 'mass': 4.41},
             18: {'name': 'Resin', 'mass': 1.2},
             19: {'name': 'Carbon Steel', 'mass': 7.800},
-            20: {'name': 'Red Oak', 'mass': 5.700}
+            20: {'name': 'Red Oak', 'mass': 0.57}
         }
         
     def get_material_mass(self, material_identifier):
